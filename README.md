@@ -22,4 +22,14 @@ In August of 2018, Google also released a political ad archive. Google’s archi
 
 In June of 2018, Twitter released their own policy for archiving and making public information related to promoted tweets with political content. The Ad Transparency Center displays data on both political and non-political ads, but displays additional information, including detailed spend and impression information, for political ads. Twitter also publishes relatively detailed impression and spend information for each political ad. There is currently no programmatic way to access the Twitter political ad archive.
 
+## Our Analysis
+
+We investigate the following questions in our report: 
+- Which platforms are used the most for political advertising?
+- Who are the largest online political advertisers?
+- Who are unvetted sponsors? 
+- What is the breakdown of political advertising by types of sponsors? 
+To answer these we dig into the ad count, spend, and impressions of top advertisers and impressions by advertiser categories and partisan lean across platforms. 
+
+**Overall Datasets**
 
