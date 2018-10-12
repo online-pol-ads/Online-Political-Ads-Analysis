@@ -56,7 +56,7 @@ Cost Per Impressions | 0.006 - 0.072 | 0.055 - 0.005 | 0.015
 
 Facebook | Total Ads | Google | Total Ads | Twitter | Total Ads
 :---     | :---:     | :---   | :---:     | :---    | :---:
-The Democratic National Committee | 7263 | NEXTGEN CLIMATE AC-TION COMMITTEE | 363 | Beto O’Rourke | 24 
+The Democratic National Committee | 7263 | NextGen Climate Action Committee | 363 | Beto O’Rourke | 24 
 Home Financial Helper No Cost Solar Program | 7202 | Priorities USA Action & House Majority PAC | 274 | Senate Democrats | 17
 Donald J. Trump for President, Inc. | 5264 | With Honor Fund, Inc. | 204 | David E. Price | 12
 The  Trump  Make  America Great Again Committee | 4616 | Senate Leadership Fund | 197 | Senate Leadership Fund | 10
