@@ -97,3 +97,17 @@ State Run Films | 10M | NRSC | 5M | Suggested Politics | 126K | MO Research, Inc
 Randy Bryce | 83K | NextGen Climate Action Committee | 8.9M | Public Advocate of the United States | 3M 
 Yes on A Strengthen the Seawall | 22K | the Coalition to Defeat Question | 37.5M | NRCC | 2.7M
 Joan Greene | 22K | Need to Impeach | 6.2M | Congressional Leadership Fund | 2.5M | Peter Roskam | 10K
+
+## Case Studies 
+We present a deep dive review of the online political advertising of two candidates, Beto O'Rourke and President Trump. We only present an excerpt on the web page, please refer to the report for the complete case study. 
+
+### Beto O'Rourke
+Beto O’Rourke is one of the few advertisers who is actively paying for ads on all three platforms. He is a Democratic candidate for Senate in Texas. During the time period of our study, September 9th - September 22nd, O’Rourke had 44 ads on Google properties with impressions, and spent $213,500. 20 of those ads had fewer than 10,000 impressions, 13 had between 10,000 and 100,000 impressions, ten had 100,000 - 1 million impressions, and one had between one million and ten million impressions. All these ads are AdWords text ads soliciting donations through ActBlue.com, a fundraising portal widely used by Democraticcandidates. He spent $58,265 on these tweets for a total of 3,756,650 impressions. On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,300 for a minimum of just under 20 million impressions. All these ads were paid for by "Beto for Texas", his campaign. Across the three platforms during the time period, Beto O’Rourke spent $683,000 for a total of at least 23.6 million impressions.
+
+### President Donald J. Trump
+President Trump is by far the most prolific political advertiser on Facebook in terms of number of ads. During the study period, we were able to find 9,880 ads linked to his official Facebook page, but because of the rate limits Facebook imposed on our data collection, it is likely there were many ads we were not able to retrieve. Ads on this page are paid for by two different sponsors. Of the 9,880, 5,264 were paid for by "Donald J. Trump for President, Inc.", his campaign, and 4,616 were paid for by "theTrump Make America Great Again Committee". All of President Trump’s Facebook ads sought a donation and some of them also promotedcampaign rallies or fundraising dinners. 
+
+## Reports, Data and Code
+Code to scrape Twitter Ads 
+Complete Report
+Facebook Data
