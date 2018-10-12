@@ -66,3 +66,34 @@ The ACLU | 1897 | Gale Partners LLC | 132 | John K. Delaney | 3
 NextGen Climate Action Committee | 1252 | Josh Hawley for Senate | 93 | Steve Ferrara | 3
 Concealed Online| 1181 | Heller For Senate  | 85 | Millionaire Claire | 2
 Kamala Harris for Senate | 1151 | Mike Gallagher For Wisconsin | 80 | Doug Ducey for Governor | 2
+
+
+**Top Advertisers by Spend**
+
+Facebook | Min Spend | Google | Total Spend | Twitter | Total Spend 
+:---     | :---:     | :---   | :---:       | :---    | :---:
+Facebook | 802K | Senate Leadership Fund | 890K | Beto O’Rourke | 58K
+Instagram | 650K | Congressional Leadership Fund | 580K | Kirsten Gillibrand | 9K 
+Beto for Texas | 411K | Americans For Prosperity | 394K | Senate Leadership Fund | 7K
+News For Democracy 394K | Priorities USA Action & House Majority PAC | 291K | Millionaire Claire | 5K
+the NRCC | 272K | NRSC | 269K | Senate Democrats | 2.4K
+Priorities USA Action and SMP | 242K | Beto For Texas | 214K | Suggested Politics | 2K
+National Education Association | 131K | American Conservative Union | 201K | Randy Bryce | 1K
+the Coalition to Defeat Question | 3127K | NextGen Climate Action Committee | 177K | Yes on A Strengthen the Seawall | 298
+MO Research, Inc. | 114K | Texans Are | 175K | Peter Roskam | 212
+NextGen Climate Action Committee | 111 | KNRCC | 174K | Adam Schiff | 146
+
+
+**Top Advertiser by Impressions**
+
+Facebook | Min Impressions | Google | Min Impressions | Twitter | Impressions
+:---     | :---:           | :---   | :---:           | :---    | :---:
+Beto for Texas | 19.8M | Senate Leadership Fund | 26M | Beto O’Rourke | 3.7M
+News For Democracy | 16.4M | Heritage Action For America | 11.4M | Kirsten Gillibrand | 649K
+Priorities USA Action and SMP | 14.5M | Priorities USA Action & House Majority PAC | 8.4M | Senate Leadership Fund | 558K
+the NRCC | 12.5M | Priorities USA Action & SMP | 7.4M | Millionaire Claire | 423K 
+Comedy Central | 12.3M | NextGen Climate Action Committee | 6.6M | Senate Democrats | 196K
+State Run Films | 10M | NRSC | 5M | Suggested Politics | 126K | MO Research, Inc. | 9.3M | No Labels Action, Inc. | 3.1M
+Randy Bryce | 83K | NextGen Climate Action Committee | 8.9M | Public Advocate of the United States | 3M 
+Yes on A Strengthen the Seawall | 22K | the Coalition to Defeat Question | 37.5M | NRCC 2.7M
+Joan Greene | 22K | Need to Impeach | 6.2M | Congressional Leadership Fund | 2.5M | Peter Roskam | 10K
