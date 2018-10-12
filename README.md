@@ -33,3 +33,9 @@ To answer these we dig into the ad count, spend, and impressions of top advertis
 
 **Overall Datasets**
 
+
+Platform  |  Total Ads  |  Total Sponsors  |  Total Pages  |  Impressions  |  Spend  |  First Ad Date  |  Last Ad Date
+:---:     |   :---:     |   :---:          |   :---:       |  :---:        | :---:   |  :---:          | :---: 
+Facebook | 860K | 14087 | 21341 | 5.1B - 14.5B | 89M - 376M | 2014-07-17 | 2018-10-03
+Google | 23K | 428 | NA | 677M - 5.8B | 25.7M | 2018-05-31 | 2018-10-01
+Twitter | 1151 | 62 | NA | 78M | 1M | 2016-12-21 | 2018-10-02
