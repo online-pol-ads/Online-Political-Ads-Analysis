@@ -39,3 +39,30 @@ Platform  |  Total Ads  |  Total Sponsors  |  Total Pages  |  Impressions  |  Sp
 Facebook | 860K | 14087 | 21341 | 5.1B - 14.5B | 89M - 376M | 2014-07-17 | 2018-10-03
 Google | 23K | 428 | NA | 677M - 5.8B | 25.7M | 2018-05-31 | 2018-10-01
 Twitter | 1151 | 62 | NA | 78M | 1M | 2016-12-21 | 2018-10-02
+
+**Federal Candidates Only Results (Sept. 9th, 2018 - Sept. 22nd, 2018)**
+
+Results | Facebook | Google | Twitter
+:---:   | :---:    | :---:  | :---:
+Total Advertisers | 281 | 172 | 24
+Total Ads | 18.5K | 3.5K | 103
+Total Impressions | 76M - 220M | 114.5M - 1.2B | 5.8M
+Total USD Spend | 1.1M - 4.8M | 6.3M | 86K
+Average Impressions Per Ad | 9K - 25K | 33K - 340K | 56K
+Average USD Spend Per Ad | 153 - 685 | 1.8K | 265
+Cost Per Impressions | 0.006 - 0.072 | 0.055 - 0.005 | 0.015
+
+**Top Advertisers by Ad Count**
+
+Facebook | Total Ads | Google | Total Ads | Twitter | Total Ads
+:---     | :---:     | :---   | :---:     | :---    | :---:
+The Democratic National Committee | 7263 | NEXTGEN CLIMATE AC-TION COMMITTEE | 363 | Beto O’Rourke | 24 
+Home Financial Helper No Cost Solar Program | 7202 | Priorities USA Action & House Majority PAC | 274 | Senate Democrats | 17
+Donald J. Trump for President, Inc. | 5264 | With Honor Fund, Inc. | 204 | David E. Price | 12
+The  Trump  Make  America Great Again Committee | 4616 | Senate Leadership Fund | 197 | Senate Leadership Fund | 10
+Solar Programs In CA Counties | 4072 | CFG Action Montana | 149 | Adam Schiff | 8
+Michigan Planned Parenthood Votes Super PAC | 3790 | Heritage Action For America | 137 | Ted Cruz | 5
+The ACLU | 1897 | Gale Partners LLC | 132 | John K. Delaney | 3
+NextGen Climate Action Committee | 1252 | Josh Hawley for Senate | 93 | Steve Ferrara | 3
+Concealed Online| 1181 | Heller For Senate  | 85 | Millionaire Claire | 2
+Kamala Harris for Senate | 1151 | Mike Gallagher For Wisconsin | 80 | Doug Ducey for Governor | 2
