@@ -14,7 +14,7 @@ Considering spending, when we exclude ads by Facebook and Instagram on their own
 
 All Facebook and Instagram advertisements that are political or about national issues of public importance as defined by Facebook are now archived for seven years by Facebook. Facebook’s U.S. political ad archive has been available since May 24, 2018 via a web interface to anyone with a Facebook account and includes all ads of a political nature released on or after May 7th, 2018. Facebook has made an API available to some researchers (including us) for programmatic access to this archive. 
 
-## [Google [Political Ad Archive](https://transparencyreport.google.com/political-ads/overview) Overview
+## [Google Political Ad Archive](https://transparencyreport.google.com/political-ads/overview) Overview
 
 In August of 2018, Google also released a political ad archive. Google’s archive dated back to May 31st, 2018 and, similarly to Facebook, Google stated that ads would be retained for 7 years. Google is only including "ads related to elections or issues that feature a federal candidate orofficeholder." The data is released as a BigQuery (SQL-like) dataset, available in its entirety via the Google Cloud service. 
 
