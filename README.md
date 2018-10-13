@@ -119,7 +119,7 @@ Beto O’Rourke is one of the few advertisers who is actively paying for ads on 
 President Trump is by far the most prolific political advertiser on Facebook in terms of number of ads. During the study period, we were able to find 9,880 ads linked to his official Facebook page, but because of the rate limits Facebook imposed on our data collection, it is likely there were many ads we were not able to retrieve. Ads on this page are paid for by two different sponsors. Of the 9,880, 5,264 were paid for by "Donald J. Trump for President, Inc.", his campaign, and 4,616 were paid for by "theTrump Make America Great Again Committee". All of President Trump’s Facebook ads sought a donation and some of them also promotedcampaign rallies or fundraising dinners. 
 
 ## Reports, Data and Code
-[Code to scrape Twitter Ads](https://github.com/online-pol-ads/ScrapeTwitterPolAds)  
+[Twitter Ads Scraper](https://github.com/online-pol-ads/ScrapeTwitterPolAds)  
 [Complete Report](https://github.com/online-pol-ads/Online-Political-Ads-Analysis/blob/master/Online_Political_Advertising_Report.pdf)  
 Facebook Data  
 
