@@ -33,7 +33,7 @@ We investigate the following questions in our report:
 </br>
 To answer these we dig into the ad count, spend, and impressions of top advertisers and impressions by advertiser categories and partisan lean across platforms.  
 
-
+</br>
 **Overall Datasets**
 
 
