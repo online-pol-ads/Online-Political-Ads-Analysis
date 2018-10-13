@@ -30,6 +30,7 @@ We investigate the following questions in our report:
 - Who are the largest online political advertisers?
 - Who are unvetted sponsors? 
 - What is the breakdown of political advertising by types of sponsors?  
+
 </br>  
 To answer these we dig into the ad count, spend, and impressions of top advertisers and impressions by advertiser categories and partisan lean across platforms. 
 
