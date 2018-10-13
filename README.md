@@ -1,6 +1,6 @@
 # NYU's Analysis of Online Political Advertising in United States. 
 
-This report includes our followup analysis of Facebook's political ad archive and our initial analysis of Google and Twitter's archives. We provide analysis of the political advertisers using these online advertising networks and detailed case studies of a few major online political advertisers.
+This report includes our followup [analysis of Facebook's political ad archive](https://online-pol-ads.github.io/FBPoliticalAds/) and our initial analysis of Google and Twitter's archives. We provide analysis of the political advertisers using these online advertising networks and detailed case studies of a few major online political advertisers.
 
 ## Introduction
 
