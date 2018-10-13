@@ -10,15 +10,15 @@ Our high level findings are that Beto O’Rourke appears to be the largest polit
 
 Considering spending, when we exclude ads by Facebook and Instagram on their own platform, the advertisers who spentthe most across all three platforms were the Senate Leadership Fund, a right leaning PAC, with $978,000 in total spending, Beto for Texas, with $683,000, and the Congressional Leadership Fund, another right leaning PAC, with $610,000 duringthe study period. 
 
-## Facebook's [Political Ad Archive](https://www.facebook.com/ads/archive/?active_status=all&ad_type=political_and_issue_ads&country=ALL) Overview
+## [Facebook Political Ad Archive](https://www.facebook.com/ads/archive/?active_status=all&ad_type=political_and_issue_ads&country=ALL) Overview
 
 All Facebook and Instagram advertisements that are political or about national issues of public importance as defined by Facebook are now archived for seven years by Facebook. Facebook’s U.S. political ad archive has been available since May 24, 2018 via a web interface to anyone with a Facebook account and includes all ads of a political nature released on or after May 7th, 2018. Facebook has made an API available to some researchers (including us) for programmatic access to this archive. 
 
-## Google's [Political Ad Archive](https://transparencyreport.google.com/political-ads/overview) Overview
+## [Google [Political Ad Archive](https://transparencyreport.google.com/political-ads/overview) Overview
 
 In August of 2018, Google also released a political ad archive. Google’s archive dated back to May 31st, 2018 and, similarly to Facebook, Google stated that ads would be retained for 7 years. Google is only including "ads related to elections or issues that feature a federal candidate orofficeholder." The data is released as a BigQuery (SQL-like) dataset, available in its entirety via the Google Cloud service. 
 
-## Twitter's [Political Ad Archive](https://ads.twitter.com/transparency) Overview
+## [Twitter Political Ad Archive](https://ads.twitter.com/transparency) Overview
 
 In June of 2018, Twitter released their own policy for archiving and making public information related to promoted tweets with political content. The Ad Transparency Center displays data on both political and non-political ads, but displays additional information, including detailed spend and impression information, for political ads. Twitter also publishes relatively detailed impression and spend information for each political ad. There is currently no programmatic way to access the Twitter political ad archive.
 
