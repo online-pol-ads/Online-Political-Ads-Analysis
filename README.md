@@ -98,6 +98,15 @@ Randy Bryce | 83K | NextGen Climate Action Committee | 8.9M | Public Advocate of
 Yes on A Strengthen the Seawall | 22K | the Coalition to Defeat Question | 37.5M | NRCC | 2.7M
 Joan Greene | 22K | Need to Impeach | 6.2M | Congressional Leadership Fund | 2.5M | Peter Roskam | 10K
 
+
+**Facebook Unvetted Sponsor Results**
+
+Unvetted Sponsors | 
+:---:             | :---:
+Total Ads | 2K
+Total Spend | 1.6M
+Total Impressions | 8.5M 
+
 ## Case Studies 
 We present a deep dive review of the online political advertising of two candidates, Beto O'Rourke and President Trump. We only present an excerpt on the web page, please refer to the report for the complete case study. 
 
