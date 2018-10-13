@@ -123,8 +123,8 @@ President Trump is by far the most prolific political advertiser on Facebook in 
 - [Complete Report](https://github.com/online-pol-ads/Online-Political-Ads-Analysis/blob/master/Online_Political_Advertising_Report.pdf)
 - Facebook Data
 
-## Contact Us
-(Damon McCoy)[mccoy@nyu.edu]
-(Laura Edelson)[lj992@nyu.edu]
-(Ratan Dey)[ratan@nyu.edu]
-(Shikhar Sakhuja)[shikhar.sakhuja@nyu.edu]
+## Contact Us  
+(Damon McCoy)[mccoy@nyu.edu]  
+(Laura Edelson)[lj992@nyu.edu]  
+(Ratan Dey)[ratan@nyu.edu]  
+(Shikhar Sakhuja)[shikhar.sakhuja@nyu.edu]  
