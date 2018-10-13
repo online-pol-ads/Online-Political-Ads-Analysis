@@ -133,7 +133,8 @@ President Trump had no Promoted Tweets on Twitter, which we hypothesize is becau
 ## Reports, Data and Code
 [Twitter Ads Scraper](https://github.com/online-pol-ads/ScrapeTwitterPolAds)  
 [Complete Report](https://github.com/online-pol-ads/Online-Political-Ads-Analysis/blob/master/Online_Political_Advertising_Report.pdf)  
-Facebook Data  
+[Facebook Aggregated Data](https://github.com/online-pol-ads/FacebookApiPolAdsCollector/tree/master/data)  
+[Twitter Data Dump](https://s3.console.aws.amazon.com/s3/buckets/nyu-online-political-ads/twitter/?region=us-east-1&tab=overview)  
 
 ## Contact Us  
 [Damon McCoy](mccoy@nyu.edu)  
