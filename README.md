@@ -117,7 +117,7 @@ We also compared the geographic reach of donation ads vs. non-donation ads. Unsu
 
 
 ![Donation Map](https://i.imgur.com/xF1Knct.png) 
-Per Capita Impressions of Beto O Rourke Donation Ads
+**Per Capita Impressions of Beto O Rourke Donation Ads**
 
 ### President Donald J. Trump
 President Trump is by far the most prolific political advertiser on Facebook in terms of number of ads. During the study period, we were able to find 9,880 ads linked to his official Facebook page, but because of the rate limits Facebook imposed on our data collection, it is likely there were many ads we were not able to retrieve. Ads on this page are paid for by two different sponsors.  
@@ -129,7 +129,7 @@ President Trump was much less active on Google during the study period. We were 
 President Trump had no Promoted Tweets on Twitter, which we hypothesize is because he has sufficient organic reach on that platform.  
 
 ![Donation Map](https://i.imgur.com/oXOG6Xl.png)
-Per Capita Impressions of Donald Trump Donation Ads
+**Per Capita Impressions of Donald Trump Donation Ads**
 
 ## Reports, Data and Code
 [Twitter Ads Scraper](https://github.com/online-pol-ads/ScrapeTwitterPolAds)  
