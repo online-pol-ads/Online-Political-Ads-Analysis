@@ -101,14 +101,6 @@ Yes on A Strengthen the Seawall | 22K | the Coalition to Defeat Question | 37.5M
 Joan Greene | 22K | Need to Impeach | 6.2M | Congressional Leadership Fund | 2.5M | Peter Roskam | 10K
 
 
-**Facebook Unvetted Sponsor Results**
-
-Unvetted Sponsors | 
-:---:             | :---:
-Total Ads | 2K
-Total Spend | 1.6M
-Total Impressions | 8.5M 
-
 ## Case Studies 
 We present a deep dive review of the online political advertising of two candidates, Beto O'Rourke and President Trump. We only present an excerpt on the web page, please refer to the report for the complete case study. 
 
@@ -124,7 +116,7 @@ On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,30
 We also compared the geographic reach of donation ads vs. non-donation ads. Unsurprisingly, non-donation ads that were aimed at winning voters were heavily concentrated in Texas, while donation ads were much more geographically diverse. Overall, 55% of the total impressions were located in Texas, while among the donation solicitation ads, only 22% of the ads were located in Texas. Per capita donation ads are mapped in the following heat map . Texas is clearly the most targeted state, but Washington, Oregon, Vermont, and Massachusetts were also highly targeted.
 
 
-![Donation Map](/Online-Political-Ads-Analysis/Images/beto_donation_map.png)  
+![Donation Map](https://imgur.com/xF1Knct)  
 Per Capita Impressions of Beto O Rourke Donation Ads
 
 ### President Donald J. Trump
