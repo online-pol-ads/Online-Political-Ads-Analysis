@@ -128,7 +128,7 @@ President Trump was much less active on Google during the study period. We were 
   
 President Trump had no Promoted Tweets on Twitter, which we hypothesize is because he has sufficient organic reach on that platform.  
 
-![Donation Map](/Online-Political-Ads-Analysis/Images/djt_donation_map.png)  
+![Donation Map](https://i.imgur.com/oXOG6Xl.png)
 Per Capita Impressions of Donald Trump Donation Ads
 
 ## Reports, Data and Code
