@@ -116,7 +116,7 @@ On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,30
 We also compared the geographic reach of donation ads vs. non-donation ads. Unsurprisingly, non-donation ads that were aimed at winning voters were heavily concentrated in Texas, while donation ads were much more geographically diverse. Overall, 55% of the total impressions were located in Texas, while among the donation solicitation ads, only 22% of the ads were located in Texas. Per capita donation ads are mapped in the following heat map . Texas is clearly the most targeted state, but Washington, Oregon, Vermont, and Massachusetts were also highly targeted.
 
 
-![Donation Map](https://imgur.com/xF1Knct)  
+![Donation Map](https://i.imgur.com/xF1Knct.png) 
 Per Capita Impressions of Beto O Rourke Donation Ads
 
 ### President Donald J. Trump
