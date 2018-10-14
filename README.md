@@ -138,7 +138,8 @@ President Trump had no Promoted Tweets on Twitter, which we hypothesize is becau
 [Twitter Data Dump](https://s3.console.aws.amazon.com/s3/buckets/nyu-online-political-ads/twitter/?region=us-east-1&tab=overview)  
 
 ## Contact Us  
-[Damon McCoy](mccoy@nyu.edu)  
 [Laura Edelson](lj992@nyu.edu)    
-[Ratan Dey](ratan@nyu.edu)  
 [Shikhar Sakhuja](shikhar.sakhuja@nyu.edu)
+[Ratan Dey](ratan@nyu.edu)  
+[Damon McCoy](mccoy@nyu.edu)  
+
