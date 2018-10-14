@@ -121,7 +121,7 @@ On Twitter, O’Rourke has 24 promoted tweets during the study period. These twe
   
 On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,300 for a minimum of just under 20 million impressions. All these ads were paid for by "Beto for Texas", his campaign. Across the three platforms during the time period, Beto O’Rourke spent $683,000 for a total of at least 23.6 million impressions.
 
-![Donation Map](https://github.com/online-pol-ads/Online-Political-Ads-Analysis/blob/master/Images/beto_donation_map.png)
+![Donation Map](/Images/beto_donation_map.png)
 
 ### President Donald J. Trump
 President Trump is by far the most prolific political advertiser on Facebook in terms of number of ads. During the study period, we were able to find 9,880 ads linked to his official Facebook page, but because of the rate limits Facebook imposed on our data collection, it is likely there were many ads we were not able to retrieve. Ads on this page are paid for by two different sponsors.  
