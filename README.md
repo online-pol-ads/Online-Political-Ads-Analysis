@@ -101,14 +101,6 @@ Yes on A Strengthen the Seawall | 22K | the Coalition to Defeat Question | 37.5M
 Joan Greene | 22K | Need to Impeach | 6.2M | Congressional Leadership Fund | 2.5M | Peter Roskam | 10K
 
 
-**Facebook Unvetted Sponsor Results**
-
-Unvetted Sponsors | 
-:---:             | :---:
-Total Ads | 2K
-Total Spend | 1.6M
-Total Impressions | 8.5M 
-
 ## Case Studies 
 We present a deep dive review of the online political advertising of two candidates, Beto O'Rourke and President Trump. We only present an excerpt on the web page, please refer to the report for the complete case study. 
 
@@ -119,16 +111,26 @@ All these ads are AdWords text ads soliciting donations through ActBlue.com, a f
   
 On Twitter, O’Rourke has 24 promoted tweets during the study period. These tweets are a mix of donation solicitations through actblue.com, awareness raising for events, and tweets aimed at generally increasing name recognition for the candidate. He spent $58,265 on the tweets for a total of 3,756,650 impressions.  
   
-On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,300 for a minimum of just under 20 million impressions. All these ads were paid for by "Beto for Texas", his campaign. Across the three platforms during the time period, Beto O’Rourke spent $683,000 for a total of at least 23.6 million impressions.
+On Facebook, the Beto O’Rourke page had 520 ads, with a total spend of $411,300 for a minimum of just under 20 million impressions. All these ads were paid for by "Beto for Texas", his campaign. Across the three platforms during the time period, Beto O’Rourke spent $683,000 for a total of at least 23.6 million impressions.  
+
+We also compared the geographic reach of donation ads vs. non-donation ads. Unsurprisingly, non-donation ads that were aimed at winning voters were heavily concentrated in Texas, while donation ads were much more geographically diverse. Overall, 55% of the total impressions were located in Texas, while among the donation solicitation ads, only 22% of the ads were located in Texas. Per capita donation ads are mapped in the following heat map . Texas is clearly the most targeted state, but Washington, Oregon, Vermont, and Massachusetts were also highly targeted.
+
+
+![Donation Map](https://i.imgur.com/xF1Knct.png) 
+**Per Capita Impressions of Beto O Rourke Donation Ads**
 
 ### President Donald J. Trump
 President Trump is by far the most prolific political advertiser on Facebook in terms of number of ads. During the study period, we were able to find 9,880 ads linked to his official Facebook page, but because of the rate limits Facebook imposed on our data collection, it is likely there were many ads we were not able to retrieve. Ads on this page are paid for by two different sponsors.  
   
-Of the 9,880, 5,264 were paid for by "Donald J. Trump for President, Inc.", his campaign, and 4,616 were paid for by "the Trump Make America Great Again Committee". All of President Trump’s Facebook ads sought a donation and some of them also promoted campaign rallies or fundraising dinners. 85% (8,392) of President Trump’s ads on Facebook were smaller micro-targeted ads. There were also 24 larger ads that appeared to be focused on people who had previously donated to his campaign. These donation ads disproportionately targeted people in Republican leaning states, such as Montana.  
-  
+Of the 9,880, 5,264 were paid for by "Donald J. Trump for President, Inc.", his campaign, and 4,616 were paid for by "the Trump Make America Great Again Committee". All of President Trump’s Facebook ads sought a donation and some of them also promoted campaign rallies or fundraising dinners. 85% (8,392) of President Trump’s ads on Facebook were smaller micro-targeted ads. There were also 24 larger ads that appeared to be focused on people who had previously donated to his campaign. These donation ads disproportionately targeted people in Republican leaning states, such as Montana, as seen in the following heat map.  
+
 President Trump was much less active on Google during the study period. We were only able to find 27 ads during this time frame paid for by "the Trump Make America Great Again Committee" and none paid for by his campaign. However, because these ads are relatively large, he was still the 12th largest spender on Google’s platform during the study period, with a total spend of $131,400 and total minimum impressions of 17,320,000.  
   
 President Trump had no Promoted Tweets on Twitter, which we hypothesize is because he has sufficient organic reach on that platform.  
+
+![Donation Map](https://i.imgur.com/oXOG6Xl.png)
+**Per Capita Impressions of Donald Trump Donation Ads**
+  
 
 ## Reports, Data and Code
 [Twitter Ads Scraper](https://github.com/online-pol-ads/ScrapeTwitterPolAds)  
@@ -137,7 +139,8 @@ President Trump had no Promoted Tweets on Twitter, which we hypothesize is becau
 [Twitter Data Dump](https://s3.console.aws.amazon.com/s3/buckets/nyu-online-political-ads/twitter/?region=us-east-1&tab=overview)  
 
 ## Contact Us  
-[Damon McCoy](mccoy@nyu.edu)  
-[Laura Edelson](lj992@nyu.edu)    
-[Ratan Dey](ratan@nyu.edu)  
-[Shikhar Sakhuja](shikhar.sakhuja@nyu.edu)
+[Laura Edelson](mailto:lj992@nyu.edu)    
+[Shikhar Sakhuja](https://wp.nyu.edu/shikharsakhuja/)  
+[Ratan Dey](mailto:ratan@nyu.edu)  
+[Damon McCoy](http://damonmccoy.com/)  
+
